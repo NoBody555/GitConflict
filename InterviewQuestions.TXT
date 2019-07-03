@@ -1,0 +1,66 @@
+BDD
+	
+JAVA
+	Rate  - 6/10
+	Different concepts of JAVA - > OOPS concepts all
+	Interface Extends Interface and method implementation
+	Abstract CLass
+	Atleast abstract method in Abstract Class
+	Final Abstract Class
+	Any final classes that you come across - LOCATORS
+	Can you declare variable in an interface
+	Any Java design patterns
+	Example of Singleton class and when can you achive the singleton class and digging deep
+	How to Custom Exception
+	Immutable Objects and digging deepck vs Heap with examplesSome try catch with example and Finaly
+	System.exit in catch74447444477777474744744
+74777777777474747	Static overriding and Overloading7
+77	HashMap internal architecture
+	Some exmple of Hashing in chat to write a java code implementing HashMap
+TestNG
+	Parallel Execution 50 tests - digging deep
+	Different concpets of same
+	TestNG Listeners????
+Maven
+	Dependency vs plugin definition  - > digging deep
+	Why surefire as plugin and not as dependency
+	verify vs compile
+	all maven goals
+	what files deleted by Maven Clean - digging deep
+	Install
+	Test
+	install vs test
+	other concepts of Maven
+	Any other Parallel Execution
+Selenium
+SauceLabs
+API Testing
+	Shawdow resource
+	different concepts
+	Framework who developed used - Interaction - quickstart	
+	Session maintenance
+	documentation ????
+	Components of HTTP Request
+	Is there any limit for JSON size in post method?
+	limit on query parameters
+	put vs patch
+	Serialize a JSON Object
+	bugs found
+	mock json request
+	stateless vs stateful
+	Cache Controlsssss
+	How to convert JSON String to Java object using POJO
+	Unknown JSON Format write code
+	Some Address collectors / type cast and digging very deep into the same
+	Checking all strings / integers in JSON object something
+Database Testing
+	Any Experience???
+	Which Database??? Oracle SQL	
+	When was the last time used?
+	
+	
+	
+	
+	
+
+	
